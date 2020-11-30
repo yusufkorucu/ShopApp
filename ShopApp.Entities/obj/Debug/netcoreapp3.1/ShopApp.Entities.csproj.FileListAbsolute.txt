@@ -1,0 +1,9 @@
+D:\vsproject\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\vsproject\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\vsproject\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\vsproject\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\vsproject\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\vsproject\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\vsproject\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\vsproject\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\vsproject\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache

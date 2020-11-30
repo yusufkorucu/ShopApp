@@ -1,0 +1,48 @@
+﻿@model CategoryListViewModel
+@{
+    ViewData["Title"] = "Category List";
+}
+
+<h1>Admin Product</h1>
+<hr />
+@if (Model.Categories.Count() > 0)
+{
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td style="width:30px">Id</td>
+                <td>Name</td>
+
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Categories)
+            {
+                <tr>
+                    <td>@item.Id</td>
+
+                    <td>@item.Name</td>
+
+                    <td>
+                        <a href="/admin/editcategory/@item.Id" class="btn btn-primary btn-sm mr-2"> Edit </a>
+                        <form action="/admin/deletecategory" method="post" style="display:inline;">
+                            <input type="hidden" name="categoryId" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm ">Delete</button>
+                        </form>
+
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+}
+else
+{
+    <div class="alert alert-warning">
+        <h4>No Products </h4>
+    </div>
+}

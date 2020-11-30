@@ -1,0 +1,14 @@
+D:\vsproject\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.deps.json
+D:\vsproject\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\vsproject\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\vsproject\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csprojAssemblyReference.cache
+D:\vsproject\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfoInputs.cache
+D:\vsproject\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfo.cs
+D:\vsproject\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CoreCompileInputs.cache
+D:\vsproject\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\vsproject\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\vsproject\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\vsproject\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShoppApp.DataAccess.dll
+D:\vsproject\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\vsproject\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShoppApp.DataAccess.pdb
+D:\vsproject\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CopyComplete
